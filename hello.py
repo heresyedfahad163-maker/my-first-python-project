@@ -1,0 +1,15 @@
+print( "Hello Syed Fahad" )
+print( "Python chal gaya" )
+print("mera naam fahad h")
+print( "Hello Syed Fahad" )
+print(2+3)
+name = "fahad"
+age = 20
+print(name)
+print(age)
+name = input("Syed Fahad: ")
+age =  input("20: ")
+print("Syed Fahad:" , name)
+print("20:" , age)
+print("safiullah")
+print("start the coding")
