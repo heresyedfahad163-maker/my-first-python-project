@@ -16,6 +16,6 @@ This repository contains all my Python practice programs from 2026.
 - **Dictionary** - dictionary examples
 - **Range** - range examples
 
-Created by: hoseyedisihad163-maker
+Created by: heresyedfahad163-maker
 Email: heresyedfahad163@gmail.com
 Date: September 2026
